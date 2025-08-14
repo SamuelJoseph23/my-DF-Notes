@@ -72,3 +72,7 @@ https://www.virustotal.com/gui/file/ae2a513b61febc225d5e374ab22dba754a3d38e49b7b
 
 ## 🖼️ Screenshots
 Include screenshots of your logged-in VT dashboard and scan results.
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/SamuelJoseph23/my-DF-Notes/blob/main/virustotal-scan/screenshots/Screenshot1.png))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=tru](https://github.com/SamuelJoseph23/my-DF-Notes/blob/main/virustotal-scan/screenshots/Screenshot2.png)e)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/SamuelJoseph23/my-DF-Notes/blob/main/virustotal-scan/screenshots/Screenshot3.png))
