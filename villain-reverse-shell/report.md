@@ -13,7 +13,9 @@ The payload was delivered to the target VM by hosting a malicious PowerShell scr
 - User: Samuel Joseph 
 
 ## 🔎 Enumeration Performed
-```powershell
+powershell
 whoami
 ipconfig
 systeminfo
+
+![alt text](https://github.com/SamuelJoseph23/my-DF-Notes/blob/main/villain-reverse-shell/screenshots/Screenshot1.png)
