@@ -28,3 +28,6 @@
 The image is a JPEG file originally created on March 5, 2021, and modified later on April 21, 2021. The metadata reveals multiple edits and saves, with use of editing software such as GIMP 2.10.24 and Adobe Premiere Pro 2020 in the history. This indicates that the image is not original but has undergone manipulation.
 
 ## 🖼️ Screenshots
+![alt text](https://github.com/SamuelJoseph23/my-DF-Notes/blob/main/exiftool-analysis/screenshots/Screenshot1.png)
+![alt text](https://github.com/SamuelJoseph23/my-DF-Notes/blob/main/exiftool-analysis/screenshots/Screenshot2.png)
+![alt text](https://github.com/SamuelJoseph23/my-DF-Notes/blob/main/exiftool-analysis/screenshots/Screenshot3.png)
